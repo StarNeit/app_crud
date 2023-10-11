@@ -1,4 +1,4 @@
-# Customer test project
+# project
  
 ## Technologies
 
